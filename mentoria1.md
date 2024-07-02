@@ -24,9 +24,10 @@ Como agendar a execução do seu código
 
 3. Para ver se funcionou o xpath: No console do browser, $x("xpath")
 4. Fazer os testes no Debug console
-5. Forma mais consistente de mandar mensagens(Desktop) - Encontrar a forma mais estável
+5. Forma mais consistente de mandar mensagens aplicativos(Desktop) - Encontrar a forma mais estável
 6. PyautoGUI: Formato de imagem -> .png(Não faz compresão de imagem) -> lightshot
 7. Schedule -> agendar automações
+8. Não sabe algo?, pesquise no Google
 
 
 ````
